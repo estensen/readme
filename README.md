@@ -1,0 +1,2 @@
+# readme
+Konkurranser fra readme
